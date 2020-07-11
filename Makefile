@@ -31,9 +31,9 @@ include $(DEVKITPRO)/libnx/switch_rules
 #     - <libnx folder>/default_icon.jpg
 #---------------------------------------------------------------------------------
 
-APP_TITLE	:=	Control Dumper
-APP_AUTHOR	:=	Random0666
-APP_VERSION	:=	1.0.0
+APP_TITLE	:=	NACP Dumper
+APP_AUTHOR	:=	Random0666 & CrustySeanPro
+APP_VERSION	:=	1.1.0
 
 TARGET		:=	$(notdir $(CURDIR))
 BUILD		:=	build
