@@ -9,7 +9,7 @@ const char* SD_PATH = "controls/";
 
 void printInfo()
 {
-    printf("Title Control Dumper\n\n");
+    printf("NACP Dumper\n\n");
     
     printf("A : Dump full control data\n");
     printf("X : Dump icons only\n");
